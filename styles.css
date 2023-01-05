@@ -189,4 +189,5 @@ body {
 .svg{
   padding-top: 4px;
   cursor: pointer;
+  color: red;
 }
